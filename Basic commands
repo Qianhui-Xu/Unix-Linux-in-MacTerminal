@@ -1,0 +1,4 @@
+cat: open a file and show it directly
+less: open a file in a new window
+q: quit the window you opened in last step
+^c/exit: quit the programm
