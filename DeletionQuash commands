@@ -1,0 +1,9 @@
+ctrl+u: delete all the entering before the point
+ctrl+k: delete all the entering after the point
+ctrl+h: delete one character before the point
+ctrl+d: delete one character after the point
+ctrl+w: delete half of the commands before the point
+Alt+d: delete half of the commands after the point
+
+#Add the Quash command here
+ctrl+-
