@@ -10,6 +10,7 @@ cd /: go to the root directory
 cd ..: go back to the last directory
 cd 'filename': enter one subdirectory in this directory
 cd -: go to the previous directory and give the exact root
+pwd: show the exact root now
 
 
 mkdir 'foldername': create a new folder
