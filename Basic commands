@@ -1,9 +1,16 @@
 #open and see files
-cat: open a file and show it directly
-less: open a file in a new window
-
+cat: open one existed file and show it directly
+less: open one existed file in a new window
 q: quit the window you opened in last step
+
 ctrl+c/exit: quit the progrgram
+
+cd: go back to the home
+cd /: go to the root directory
+cd ..: go back to the last directory
+cd 'filename': enter one subdirectory in this directory
+cd -: go to the previous directory and give the exact root
+
 
 mkdir 'foldername': create a new folder
 touch 'filename': create a new file, not open it
