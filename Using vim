@@ -1,0 +1,12 @@
+vim 'filename': create a new file and edit
+# Under vim
+esc: exit the editing mode, change to command mode
+# After 'esc'
+:w: save the edited conten, not exit the vim editor
+:wq: save and quit
+:wq!: save and quit forcefully (when there is no writing permissions)
+:q: quit the editor (only when not editing the file)
+:q!: quit the editor and not save the edited file
+:w 'filename': save the edited file to 'filename'
+:w! 'filename': same as above, if 'filename' exists, substitute it
+:wq! 'filename': same as the above, then quit
