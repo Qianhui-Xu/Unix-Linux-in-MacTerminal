@@ -16,3 +16,5 @@ pwd: show the exact root now
 mkdir 'foldername': create a new folder
 touch 'filename': create a new file, not open it
 
+#delete operation
+rm: delete file
