@@ -5,6 +5,7 @@ q: quit the window you opened in last step
 
 ctrl+c/exit: quit the progrgram
 
+#progress
 cd: go back to the home
 cd /: go to the root directory
 cd ..: go back to the last directory
@@ -12,9 +13,12 @@ cd 'filename': enter one subdirectory in this directory
 cd -: go to the previous directory and give the exact root
 pwd: show the exact root now
 
-
+#create operation
 mkdir 'foldername': create a new folder
 touch 'filename': create a new file, not open it
 
 #delete operation
 rm: delete file
+
+#rename operation
+mv old_name new_name
