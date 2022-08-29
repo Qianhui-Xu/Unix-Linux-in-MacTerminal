@@ -19,6 +19,10 @@ touch 'filename': create a new file, not open it
 
 #delete operation
 rm: delete file
+rm -r: delete folder
 
 #rename operation
 mv old_name new_name
+
+#move files
+mv file_name directory
