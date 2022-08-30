@@ -26,3 +26,6 @@ mv old_name new_name
 
 #move files
 mv file_name directory
+
+#copy files from server
+scp qianhui@10.97.169.13:/home/qianhui/jack /Users/xqh/desktop
