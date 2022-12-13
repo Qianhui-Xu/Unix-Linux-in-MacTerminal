@@ -29,3 +29,7 @@ mv file_name directory
 
 #copy files from server
 scp qianhui@10.97.169.13:/home/qianhui/jack /Users/xqh/desktop
+
+#transfer files in-between different servers
+sftp qianhui@10.97.172.182 
+put / get
